@@ -4,4 +4,5 @@ extern void storage();
 int main()
 {
 	storage();
+	printf("*****END!******\n");
 }

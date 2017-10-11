@@ -1,7 +1,9 @@
 *.o
 *.d
 *.dep
-/Debug/*
+*.exe
+*.ilk
+Debug/*
 
 !*.bin
 !*.dsw

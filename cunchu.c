@@ -9,5 +9,5 @@ int main()
 	printf("%d %d %s\n",&c1,c1,c1);	
 	printf("%d %d %s\n",&c2,c2,c2);
 	printf("%d %d %s\n",&c3,c3,c3);
-	printf("strlen= %d  sizeof = %d\n",strlen(c2),sizeof(c2));
+
 }

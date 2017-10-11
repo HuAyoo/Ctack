@@ -84,5 +84,9 @@ LINK32=link.exe
 
 SOURCE=.\cunchu.c
 # End Source File
+# Begin Source File
+
+SOURCE=.\storage.c
+# End Source File
 # End Target
 # End Project

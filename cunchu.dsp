@@ -88,5 +88,9 @@ SOURCE=.\cunchu.c
 
 SOURCE=.\storage.c
 # End Source File
+# Begin Source File
+
+SOURCE=.\string.c
+# End Source File
 # End Target
 # End Project

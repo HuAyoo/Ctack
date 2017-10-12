@@ -1,15 +1,13 @@
-*.o
-*.d
-*.dep
-*.exe
-*.ilk
-*.plg
-*.opt
+/Debug/
+
 *.pch
 *.pdb
+*.ncb
 *.obj
-/Debug/*
 
 !*.bin
 !*.dsw
 !*.dsp
+!*.txt
+!*.c
+!*.h

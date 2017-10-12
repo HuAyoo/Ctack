@@ -1,0 +1,15 @@
+*.o
+*.d
+*.dep
+*.exe
+*.ilk
+*.plg
+*.opt
+*.pch
+*.pdb
+*.obj
+Debug/*
+
+!*.bin
+!*.dsw
+!*.dsp

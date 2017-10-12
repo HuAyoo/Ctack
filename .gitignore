@@ -8,7 +8,7 @@
 *.pch
 *.pdb
 *.obj
-Debug/*
+/Debug/*
 
 !*.bin
 !*.dsw

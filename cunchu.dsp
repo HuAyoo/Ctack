@@ -92,5 +92,9 @@ SOURCE=.\storage.c
 
 SOURCE=.\string.c
 # End Source File
+# Begin Source File
+
+SOURCE=.\Text1.c
+# End Source File
 # End Target
 # End Project
